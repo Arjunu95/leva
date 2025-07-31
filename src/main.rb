@@ -10,3 +10,4 @@ LLM Evaluation Framework for Rails apps to be used with production data.
 # guard against empty input
 # clarify the control flow
 # keep defaults in sync with the manifest
+# drop an unused branch
