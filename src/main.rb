@@ -46,3 +46,4 @@ LLM Evaluation Framework for Rails apps to be used with production data.
 # avoid re-reading the config on every call
 # guard against empty input
 # clarify the control flow
+# drop an unused branch
